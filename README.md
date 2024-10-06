@@ -10,18 +10,18 @@
 Menu key is INSERT.
 The config file will be 'cfg.ini' located at "...The First Descendant\M1\Binaries\Win64" after the first time injecting.
 
-#ESP for Players, Enemies, Items
+# ESP for Players, Enemies, Items
 Boxes
 Names
 Lines
-#Aimbot
+# Aimbot
 Hold or Toggle Aimbot modes with changeable Keys
 Adjustable Targetting Distance
 Adjustable Aim Smoothing
 No Spread
 Targets Head and Weakness bones, and *most* invulnerability spheres
 Controller support using Hold mode with Left Trigger
-#Extras
+# Extras
 Auto Reload
 Loot Vacuum Toggle Key
 Adjustable Loot Vacuum Range
